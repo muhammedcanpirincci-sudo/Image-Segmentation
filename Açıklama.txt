@@ -1,0 +1,1 @@
+Kodlar clone ettiğimiz repo'nu  içindeki dataloader ve pytorch_run ile değiştirilecek.
